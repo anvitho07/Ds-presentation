@@ -1,0 +1,62 @@
+---
+title: "DS Presentation"
+---
+
+## Research Paper Overview
+
+-   **Title**: *The Improvement Role of Real Time Data Analytics on Autonomous Decision for Managers in the German Automation Industry*
+-   **Theory**: Data-Driven Decision-Making (DDDM)
+-   **Tools**: SAP HANA
+-   **Focus**: Decision-making of planning managers
+
+------------------------------------------------------------------------
+
+## Reproduction Plan
+
+-   Reproduce original research structure
+-   Use survey data from planning managers
+-   Analyze real-time analytics influence
+
+------------------------------------------------------------------------
+
+## Dataset Details
+
+-   Format: Online survey (Likert + categorical)
+-   Sample: Planning managers (Germany)
+-   Collected: 30+ responses
+-   Tools: R, Excel
+
+------------------------------------------------------------------------
+
+## Progress So Far
+
+-   ✅ Literature review completed
+-   ✅ Survey built & distributed
+-   🔄 Data cleaning in progress
+-   🔄 EDA (Exploratory Data Analysis) ongoing
+
+------------------------------------------------------------------------
+
+## Challenges
+
+-   Small sample size
+-   Missing values in responses
+-   Some variables unclear
+-   No access to original codebase
+
+------------------------------------------------------------------------
+
+## Next Steps
+
+-   Complete data cleaning
+-   Run statistical models
+-   Compare findings to original paper
+-   Prepare final report
+
+------------------------------------------------------------------------
+
+## Links (to be added)
+
+-   🔗 GitHub HTML version
+-   📄 PDF version
+-   🗣️ Feedback form (optional)
